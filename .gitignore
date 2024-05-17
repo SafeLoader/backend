@@ -1,2 +1,3 @@
 # ignore __pycache__ directories
 __pycache__ = re.compile(r'^__pycache__$')
+Ai/urls.csv
